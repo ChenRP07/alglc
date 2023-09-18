@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/crp/alglc/build/src",
+  "command": "/usr/bin/c++  -I/home/crp/alglc -std=gnu++20 -o CMakeFiles/alglc.dir/base.cpp.o -c /home/crp/alglc/src/base.cpp",
+  "file": "/home/crp/alglc/src/base.cpp"
+}
+]
